@@ -7,3 +7,4 @@ Recipes:
 Completed. Thankyou
 Beans
 LadiesFinger
+Fruits:Mango,Watermelon
