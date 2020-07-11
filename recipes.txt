@@ -3,3 +3,4 @@ Recipes:
   1>Pizza
   2>Burger
   3>Lolipop
+  4>Chicken Fry
